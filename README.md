@@ -65,7 +65,3 @@ Most of what you’ll see here was built while I was still figuring things out �
 - 🧠 GitHub: [github.com/ShadowGod777](https://github.com/ShadowGod777)
 - 📧 Email: eman.rod3292@gmail.com
 
----
-
-> “I’m not where I want to be yet — but I build, break, and learn until I get there.”  
-> — Manny Rodriguez | ShadowGod777
